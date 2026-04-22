@@ -1,131 +1,82 @@
-# Zehra Çetin
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,40:1e293b,100:2563eb&text=Zehra%20%C3%87etin&fontSize=56&fontColor=60a5fa&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20%7C%20Backend%20Development%20%7C%20Computer%20Engineering&descAlignY=58&descSize=22" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1100&color=60A5FA&center=true&vCenter=true&random=false&width=980&lines=Transforming+Raw+Data+into+Intelligent+Systems;Building+production-ready+AI+and+backend+solutions;Focused+on+reliable%2C+scalable+and+clean+engineering" alt="Typing SVG" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:1E293B,100:334155&text=Zehra%20%C3%87etin&fontSize=42&fontColor=E2E8F0&desc=AI%20Systems%20%7C%20Backend%20Development%20%7C%20Computer%20Engineering&descSize=18&descColor=93C5FD&animation=fadeIn&fontAlignY=38&descAlignY=62" />
-
-<br/>
-
-<a href="mailto:zehracetin3300@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/zehracetin">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=zehracetin&label=Profile%20Views&color=334155&style=flat" />
-
-</div>
+<p align="center">
+  <a href="mailto:230202038@kocaeli.edu.tr">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/zehracetinn">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://PORTFOLIO-LINKIN.com">
+    <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I am a Computer Engineering student focused on building **practical AI systems** and **scalable backend applications**.  
-My work combines **retrieval-augmented generation**, **machine learning pipelines**, **API design**, and **system architecture** to turn ideas into reliable software products.
+I build intelligent systems at the intersection of **AI**, **backend engineering**, and **production-ready software**.
+
+- Designing backend systems for AI-powered applications
+- Working on NLP, LLM-based workflows, and scalable API architectures
+- Interested in clean system design, data pipelines, and practical ML deployment
+- Focused on building software that is reliable, maintainable, and useful in real-world scenarios
 
 ---
 
-## What I Focus On
+## Core Stack
 
-- **AI Systems:** RAG pipelines, semantic retrieval, LLM integration, classical machine learning workflows
-- **Backend Engineering:** FastAPI, ASP.NET Core, RESTful API design, modular service architecture
-- **Data & Modeling:** relational schema design, structured pipelines, performance-oriented implementations
-- **Applied Software Development:** building solutions that are not only functional, but maintainable and production-minded
-
----
-
-## Engineering Approach
-
-I like building systems that are:
-
-- **modular** enough to scale
-- **traceable** enough to trust
-- **practical** enough to solve real problems
-
-That usually means clean backend structure, well-defined data flow, and AI components designed as part of a real application instead of a one-off demo.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,fastapi,pytorch,tensorflow,mongodb,mysql,docker,git,linux,vscode&perline=6" />
+</p>
 
 ---
 
-## Tech Stack
+## Current Focus
 
-**Languages**  
-`Python` `C#` `C/C++` `JavaScript` `TypeScript`
-
-**AI / Data**  
-`TensorFlow` `Scikit-Learn` `FAISS` `RAG` `Pandas` `NumPy` `LLM Integration`
-
-**Backend**  
-`FastAPI` `ASP.NET Core` `REST APIs` `Entity Framework Core` `MVC`
-
-**Frontend / Mobile**  
-`React` `React Native` `Three.js`
-
-**Databases & Tools**  
-`SQL Server` `MySQL` `SQLite` `Git` `Docker` `Postman` `Arduino` `Proteus`
-
----
-
-## Selected Projects
-
-| Project | Stack | Summary |
-|---|---|---|
-| **AI-Based Retrieval-Augmented Generation System** | FastAPI, FAISS, LLMs | Modular RAG architecture with separated retrieval and generation layers, multi-document semantic search, and source-aware response design |
-| **Transportation Route Optimization System** | ASP.NET Core, C#, Entity Framework Core | Graph-based route optimization for multi-transport networks with REST APIs for travel time and cost calculations |
-| **Dynamic Exam Scheduling Automation** | Python, PyQt6, SQLite | Constraint-based scheduling engine for students, rooms, and time slots with automated conflict resolution |
-| **Student & Project Management Mobile Application** | React Native, TypeScript, REST API | Cross-platform mobile application with role-based authentication, approval workflows, and filtering features |
-| **Web-Based Social Library Platform** | .NET Core, React, REST APIs | Full-stack reading platform with ratings, reviews, external API integration, and user activity features |
-| **Smart Vehicle Safety Simulation** | C++, Arduino, Proteus | IoT-oriented safety simulation with sensor-driven response logic |
-| **Academic Collaboration Network Analysis** | Python, Graph Theory | Co-authorship graph modeling with shortest-path and influence analysis |
-| **Real-Time Video Analytics** | Python, OpenCV, YOLOv8 | Real-time object detection pipeline with efficient frame processing and live visualization |
-
----
-
-## Education
-
-**Kocaeli University**  
-Computer Engineering — *2023–Present*
-
----
-
-## Highlights
-
-- **Teknofest Finalist** — Technology for Humanity
-- **TÜBİTAK Competition Participant**
-- **Turkish Patent Holder**
-- **Erasmus Experience**
+- AI system design
+- Backend development with Python
+- Retrieval pipelines and LLM applications
+- Scalable API and database integration
+- Writing cleaner, more production-oriented code
 
 ---
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zehracetinn&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehracetinn&layout=compact&hide_border=true&theme=transparent&title_color=60a5fa&text_color=cbd5e1" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zehracetin&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehracetin&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zehracetin&theme=github-compact&hide_border=true" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zehracetinn&bg_color=ffffff00&color=60a5fa&line=3b82f6&point=93c5fd&area=true&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## Highlighted Strengths
 
-**Open to collaboration in AI systems, backend development, and applied machine learning projects.**
+- Backend-focused AI engineering
+- Production-minded development
+- Strong interest in system architecture
+- Continuous learning and shipping mindset
 
-</div>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:334155,100:0F172A" />
+## Contact
+
+- Email: **230202038@kocaeli.edu.tr**
+- GitHub: **github.com/zehracetinn**
+- LinkedIn: **linkedin.com/in/LINKEDIN-KULLANICI-ADIN**
+- Portfolio: **PORTFOLIO-LINKIN.com**
