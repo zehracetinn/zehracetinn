@@ -1,25 +1,28 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,40:1e293b,100:2563eb&text=Zehra%20%C3%87etin&fontSize=56&fontColor=60a5fa&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20%7C%20Backend%20Development%20%7C%20Computer%20Engineering&descAlignY=58&descSize=22" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,45:1f2937,100:4f8cff&text=Zehra%20%C3%87etin&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=37&desc=AI%20Systems%20Engineer%20%7C%20Backend%20Developer%20%7C%20Computer%20Engineering&descAlignY=60&descSize=22" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1100&color=60A5FA&center=true&vCenter=true&random=false&width=980&lines=Transforming+Raw+Data+into+Intelligent+Systems;Building+production-ready+AI+and+backend+solutions;Focused+on+reliable%2C+scalable+and+clean+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3200&pause=900&color=7CB3FF&center=true&vCenter=true&repeat=true&width=1200&lines=Engineering+intelligent+systems+with+precision;Building+scalable+backend+architectures;Turning+raw+data+into+production-grade+intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:230202038@kocaeli.edu.tr">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0B1220" />
   </a>
   <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN">
-    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=1D4ED8" />
   </a>
   <a href="https://github.com/zehracetinn">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=111827" />
   </a>
   <a href="https://PORTFOLIO-LINKIN.com">
-    <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0F766E" />
   </a>
 </p>
+
+
+
 
 ---
 
