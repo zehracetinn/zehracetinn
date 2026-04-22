@@ -1,82 +1,68 @@
+<!-- HERO SECTION -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,40:1e293b,100:2563eb&text=Zehra%20%C3%87etin&fontSize=56&fontColor=60a5fa&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20%7C%20Backend%20Development%20%7C%20Computer%20Engineering&descAlignY=58&descSize=22" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:3b82f6&text=Zehra%20%C3%87etin&fontSize=58&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Computer%20Engineering&descAlignY=62&descSize=22" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1100&color=60A5FA&center=true&vCenter=true&random=false&width=980&lines=Transforming+Raw+Data+into+Intelligent+Systems;Building+production-ready+AI+and+backend+solutions;Focused+on+reliable%2C+scalable+and+clean+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=1100&lines=Building+production-grade+AI+systems;Designing+scalable+backend+architectures;Turning+data+into+reliable+intelligence" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="mailto:230202038@kocaeli.edu.tr">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=e2e8f0" />
   </a>
   <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN">
-    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=e2e8f0" />
   </a>
   <a href="https://github.com/zehracetinn">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=e2e8f0" />
   </a>
-  <a href="https://PORTFOLIO-LINKIN.com">
-    <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://PORTFOLYO-LINKIN.com">
+    <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=e2e8f0" />
   </a>
 </p>
 
 ---
 
-## About Me
+## Mühendislik Profili
 
-I build intelligent systems at the intersection of **AI**, **backend engineering**, and **production-ready software**.
+Gerçek dünya senaryoları için **ölçeklenebilir**, **bakımı kolay** ve **üretim ortamına uygun** yapay zeka ve backend sistemleri geliştiriyorum.
 
-- Designing backend systems for AI-powered applications
-- Working on NLP, LLM-based workflows, and scalable API architectures
-- Interested in clean system design, data pipelines, and practical ML deployment
-- Focused on building software that is reliable, maintainable, and useful in real-world scenarios
+- AI destekli backend servisleri ve API mimarileri geliştiriyorum
+- NLP, LLM tabanlı akışlar ve veri odaklı uygulamalar üzerine çalışıyorum
+- Temiz mimari, performans ve sürdürülebilir kod kalitesine önem veriyorum
+- Deneysel projeler yerine gerçek kullanım senaryolarına odaklanıyorum
 
 ---
 
-## Core Stack
+## Çekirdek Yetkinlikler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,fastapi,pytorch,tensorflow,mongodb,mysql,docker,git,linux,vscode&perline=6" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=93c5fd" />
+  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=93c5fd" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=5eead4" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=fb7185" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=fb923c" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=86efac" />
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=93c5fd" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f87171" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=e2e8f0" />
 </p>
 
 ---
 
-## Current Focus
+## Güncel Odak Noktam
 
-- AI system design
-- Backend development with Python
-- Retrieval pipelines and LLM applications
-- Scalable API and database integration
-- Writing cleaner, more production-oriented code
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zehracetinn&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehracetinn&layout=compact&hide_border=true&theme=transparent&title_color=60a5fa&text_color=cbd5e1" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zehracetinn&bg_color=ffffff00&color=60a5fa&line=3b82f6&point=93c5fd&area=true&hide_border=true" />
-</p>
-
----
-
-## Highlighted Strengths
-
-- Backend-focused AI engineering
-- Production-minded development
-- Strong interest in system architecture
-- Continuous learning and shipping mindset
-
----
-
-## Contact
-
-- Email: **230202038@kocaeli.edu.tr**
-- GitHub: **github.com/zehracetinn**
-- LinkedIn: **linkedin.com/in/LINKEDIN-KULLANICI-ADIN**
-- Portfolio: **PORTFOLIO-LINKIN.com**
+- Production-grade AI systems
+- Backend architecture and API design
+- LLM workflows and retrieval pipelines
+- Reliable, maintainable software engineering
